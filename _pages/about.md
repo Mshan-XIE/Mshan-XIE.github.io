@@ -22,7 +22,7 @@ My current research focuses on understanding intelligent behavior in AI systems 
 
 ## Publications
 
-- Local-contrastive-learning machine with both generalization and adversarial robustness: A statistical physics analysis.
+- [Local-contrastive-learning machine with both generalization and adversarial robustness: A statistical physics analysis.](https://link.springer.com/article/10.1007/s11433-024-2504-8)  
 
 ## Contact
 
