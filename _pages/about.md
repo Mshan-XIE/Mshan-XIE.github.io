@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Mingshan Xie"
+permalink: /
+author_profile: true
+---
+
 # Mingshan Xie
 
 I am interested in the theoretical foundations of artificial intelligence, intelligent agents, reasoning, and autonomous intelligence.
